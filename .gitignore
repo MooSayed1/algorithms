@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
+<<<<<<< HEAD
 
+=======
+*.txt
+*.testcases
+>>>>>>> master
 # Compiled Object files
 *.slo
 *.lo
